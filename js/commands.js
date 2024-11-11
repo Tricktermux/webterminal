@@ -1,7 +1,6 @@
-var youtube = "https://www.youtube.com/c/LeiamNash"
-var facebook = "https://www.facebook.com/LeiamNashRebrth";
-var github = "https://github.com/LeiamNashRebirth";
-var messenger = "https://m.facebook.com/messages/read/?tid=cid.c.100050635086635&eav=AfZuoFhevwua5LzfEq2iac2Kcl0emuS9R6fZ91HYWN3qbEs_8cyjox6AAQfTfpZnXws&paipv=0";
+var facebook = "https://www.facebook.com/profile.php?id=61552057602849";
+var github = "https://github.com/titek";
+var instagram = "https://www.instagram.com/jay_op697";
 const empty = "&nbsp";
 
 about = [
@@ -17,9 +16,8 @@ links = [
   // format as table to achieve responsive column layout
   `<table>
    <tr><td>facebook</td><td><a href="${facebook}" target="_blank">facebook/LeiamNashRebirth</a></td></tr>
-   <tr><td>github</td><td><a href="${github}" target="_blank">github/LeiamNashRebirth</a></td></tr>
-   <tr><td>youtube</td><td><a href="${youtube}" target="_blank">youtube/LeiamNash</a></td></tr>
-   <tr><td>messenger</td><td><a href="${messenger}" target="_blank">facebook/LeiamNashRebirth</a></td></tr>
+   <tr><td>github</td><td><a href="${github}" target="_blank">github/titek</a></td></tr>
+   <tr><td>instagram</td><td><a href="${instagram}" target="_blank">instagram/jay_op697</a></td></tr>
    </table>`,
 ];
 
@@ -36,7 +34,7 @@ help = [
   'Commands List:',
   // format as table to achieve responsive column layout
   `<table>
-  <tr><td><span class="command">about</span></td><td>who is leiam nash?</td></tr>
+  <tr><td><span class="command">about</span></td><td>who is Jay bohol?</td></tr>
   <tr><td><span class="command">links</span></td><td>display my links</td></tr>
   <tr><td><span class="command">projects</span></td><td>view coding projects</td></tr>
   <tr><td><span class="command">history</span></td><td>view command history</td></tr>
